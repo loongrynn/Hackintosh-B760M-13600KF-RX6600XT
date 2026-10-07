@@ -7,6 +7,6 @@
 | 内存 | 16G （金百达 DDR4 3600MHz 32Gx2) |
 | GPU | AMD Radeon™ RX 6600 XT 8G  |
 | 硬盘 | 爱国者z7000 1T |
-| OS | macOS 26.7.1 (21G920) |
+| OS | macOS 26.7.1  |
 
 <img width="999" alt="image" src="https://github.com/ifr0zen/Hackintosh-B760M-13600KF-RX6600XT/assets/17274321/4909d339-4132-4876-804f-dfa8959526fc">
